@@ -21,21 +21,21 @@ Data preprocessing steps include:
 Machine Learning Models
 
 The following machine learning models were employed in this study:
-Support Vector Machine (SVM)
-Random Forests
-K-Nearest Neighbours Algorithm (KNN)
-Logistic Regression
-Decision Tree
-Gradient Boosting
-XGBoost
-Neural Network
-Hybrid Algorithm
+1. Support Vector Machine (SVM)
+2. Random Forests
+3. K-Nearest Neighbours Algorithm (KNN)
+4. Logistic Regression
+5. Decision Tree
+6. Gradient Boosting
+7. XGBoost
+8. Neural Network
+9. Hybrid Algorithm
 
 Evaluation Metrics
 
 The performance of the models was evaluated using metrics such as:
-Accuracy
-Sensitivity (Recall)
-Specificity
-Precision
+1. Accuracy
+2. Sensitivity (Recall)
+3. Specificity
+4. Precision
 F1 Score
